@@ -23,4 +23,4 @@
 ![URL](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![URL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-![snake gif](https://github.com/marcosmedeirros/marcosmedeirros/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/marcosmedeirros/marcosmedeirros/blob/output/github-contribution-grid-snake.svg)
